@@ -8,7 +8,7 @@ This repository contains a complete preprocessing pipeline for the Titanic datas
 ## 📂 Dataset
 
 - **File**: `Titanic-Dataset.csv`
-- **Source**: Common Titanic dataset used for data science practice
+- **Source**: [Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - **Features Included**: `Age`, `Fare`, `Sex`, `Embarked`, `Pclass`, `Survived`, and more
 
 ---
